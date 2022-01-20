@@ -23,9 +23,13 @@ Con esta plataforma tendremos acceso a una solución local o nube que estará li
 Sus características principales:
 
 •	Seguridad: Soporte para aprovisionamiento y gestión de dispositivos a través de credenciales.
+
 •	Amplia variedad de plugins: Personalización de cualquier aspecto.
+
 •	Motor de reglas: Permite configurar las reglas para el estado de los dispositivos.
+
 •	Gestión de loT de los datos:  Crea diferentes bases de datos para las entidades principales y los datos de telemetría.
+
 
 ThingsBoard trabaja con lenguajes de programación tales como Python,Go, C/ C++ y otros idiomas, el objetivo  si no tenemos acceso a la app  de ThingsBoard en ejecución, se puede utilizar el live demo para que podamos utilizar la plataforma de manera online, en un apartado se puede utilizar emuladores de dispositivo ThingsBoard para simular dispositivos de la vida real y jugar con las API 
 
