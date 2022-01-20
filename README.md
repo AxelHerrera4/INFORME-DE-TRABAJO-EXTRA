@@ -33,4 +33,9 @@ Sus características principales:
 
 ThingsBoard trabaja con lenguajes de programación tales como Python,Go, C/ C++ y otros idiomas, el objetivo  si no tenemos acceso a la app  de ThingsBoard en ejecución, se puede utilizar el live demo para que podamos utilizar la plataforma de manera online, en un apartado se puede utilizar emuladores de dispositivo ThingsBoard para simular dispositivos de la vida real y jugar con las API 
 
+¿Qué es una interfaz de control?
+
+La interfaz de control se refiere a un dispositivo de enlace entre un puerto de salida de un ordenador y los componentes eléctricos de un sistema, esta proporciona la potencia a los componentes eléctricos y actúa como memoria intermedia en la que se almacenan los caracteres, entre los componentes y el ordenador.
+
+La interfaz de control, sirve como espacio de contenido de información del circuito o programa que estemos realizando y que este contara con las propiedades, que necesitamos para analizar el circuito, se el voltaje con un panel numérico que indique cuanta carga recibe y de igual manera potencia e intensidad.
 
