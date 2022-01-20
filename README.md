@@ -63,6 +63,9 @@ Widgets de control: Estos envian señales a los dispositivos tales como regular 
 
 ![](imagenes/paso_12.png)
 
+![](imagenes/mapa.png)
+
+
 3.- Procedimiento
 
 Primeramente crearemos una cuenta en la version demo en vivo dentro de la pagina de ThingsBoard por lo cual utilzaremos el apartado de github para registrarnos, la version demo cuenta con la simulacion casi completa de la version de escritorio por lo cual tiene ddescargado dentro del sistema o la pagina los diversons plugins mas importantes.
