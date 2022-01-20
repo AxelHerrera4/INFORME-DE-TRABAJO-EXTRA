@@ -90,9 +90,10 @@ Con los siguientes widgets se puede personalizar el panel ya que cuenta con cont
 Lo personalizamos a nuestra manera para tener lo neceario dentro de la interfaz de control.
 ![](imagenes/paso_3.png)
 
+5.- Video
 
 
-5.- Conclusiones
+6.- Conclusiones
 
 
 - La herramientas que se utilziazron son los widgets de thingsboard para la cual nos ayuda a ver graficas, valores y controladores de encedido y apagado.
@@ -102,7 +103,7 @@ Lo personalizamos a nuestra manera para tener lo neceario dentro de la interfaz 
 - Modificamos los tamaños de los widgets, y establecemos los titulos de cada uno con sus respectivas funciones dentro de los widgets. 
 
 
-6.- Bibliografia.
+7.- Bibliografia.
 
 - Interfaces de sistemas de control de procesos, ERP, SAP, mantenimiento. (s. f.). Proleit. Recuperado 20 de enero de 2022, de https://www.proleit.es/plant-it/plant-it-connect/interfaces-de-comunicacion-parametrizables/
 
