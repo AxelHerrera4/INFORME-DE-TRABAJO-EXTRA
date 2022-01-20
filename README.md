@@ -63,7 +63,7 @@ Widgets de control: Estos envian señales a los dispositivos tales como regular 
 
 ![](imagenes/paso_12.png)
 
-![](imagenes/mapa.png)
+![](lab_3/mapa.png)
 
 
 3.- Procedimiento
