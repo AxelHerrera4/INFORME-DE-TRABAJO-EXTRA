@@ -39,25 +39,57 @@ La interfaz de control se refiere a un dispositivo de enlace entre un puerto de 
 
 La interfaz de control, sirve como espacio de contenido de información del circuito o programa que estemos realizando y que este contara con las propiedades, que necesitamos para analizar el circuito, se el voltaje con un panel numérico que indique cuanta carga recibe y de igual manera potencia e intensidad.
 
+Los widgets son las herramientas visuales que se utilizan dentro del panel las cuales son :
+
+
+Manometros analogicos: Muestra los valores mediante un indicador con una aguja integrada, por lo que se utiliza tanto como valores de temperatura, humedad o velocidad, etc
+
+![](imagenes/paso_5.png)
+
+![](imagenes/paso_7.png)
+
+
+Manometros digitales: Muestra los valores mediante un display digital que indica con luces la cantidad de valor que tenemos en esa magnitud, y de igual manera se utiliza para temperatura, humedad o velocidad,etc.
+
+![](imagenes/paso_6.png)
+
+![](imagenes/paso_9.png)
+
+Widgets de control: Estos envian señales a los dispositivos tales como regular la resitencia con un potenciometro o el encendido o apagado de un circuito.
+
+![](imagenes/paso_10.png)
+
+![](imagenes/paso_11.png)
+
+![](imagenes/paso_12.png)
 
 3.- Procedimiento
 
+Primeramente crearemos una cuenta en la version demo en vivo dentro de la pagina de ThingsBoard por lo cual utilzaremos el apartado de github para registrarnos, la version demo cuenta con la simulacion casi completa de la version de escritorio por lo cual tiene ddescargado dentro del sistema o la pagina los diversons plugins mas importantes.
 
-Entramos en la version demo de ThingsBoard, la cual entramos en el apartado de paneles para poder crear un nuevo panel de control, la cual simulara la nterfaz de control, y agregamos los nuevos widgets, que son los controladores o indicadores que ayudan al usuario a visualizar el estado del circuito o programa.
+![](imagenes/paso_4.png)
+
+Entramos en la version demo de ThingsBoard, la cual entramos en el apartado de paneles para poder crear un nuevo panel de control, la cual simulara la interfaz de control, y agregamos los nuevos widgets, que son los controladores o indicadores que ayudan al usuario a visualizar el estado del circuito o programa.
 
 
+Esta es el primer paso para la creacion de un panel o interfaz lo cual es entrar al apartado de paneles y crear un nuevo documento  para determianr el titulo de este.
 
 ![](imagenes/paso_1.png)
+
+Con los siguientes widgets se puede personalizar el panel ya que cuenta con controladores, graficas, mostradores y tablas de valores para el analisis de circuitos.
 
 
 ![](imagenes/paso_2.png)
 
+4.- Resultados
 
+
+Lo personalizamos a nuestra manera para tener lo neceario dentro de la interfaz de control.
 ![](imagenes/paso_3.png)
 
 
 
-4.- Conclusiones
+5.- Conclusiones
 
 
 - La herramientas que se utilziazron son los widgets de thingsboard para la cual nos ayuda a ver graficas, valores y controladores de encedido y apagado.
@@ -66,5 +98,16 @@ Entramos en la version demo de ThingsBoard, la cual entramos en el apartado de p
 
 - Modificamos los tamaños de los widgets, y establecemos los titulos de cada uno con sus respectivas funciones dentro de los widgets. 
 
+
+6.- Bibliografia.
+
+- Interfaces de sistemas de control de procesos, ERP, SAP, mantenimiento. (s. f.). Proleit. Recuperado 20 de enero de 2022, de https://www.proleit.es/plant-it/plant-it-connect/interfaces-de-comunicacion-parametrizables/
+
+- La interfaz de control (FlowGo). (s. f.). Flowol 2. Recuperado 20 de enero de 2022, de http://platea.pntic.mec.es/vgonzale/cyr_0204/ctrl_rob/flowol/interfaz.htm#:%7E:text=Una%20interfaz%20de%20control%20es,los%20componentes%20y%20el%20ordenador.
+
+- ¿Qué es una Interfaz de Usuario? - Ryte Wiki. (s. f.). Ryte Wiki. Recuperado 20 de enero de 2022, de https://es.ryte.com/wiki/Interfaz_de_Usuario
+
+- Corrales, J. A. (2021, 12 febrero). Interfaz de usuario o UI: ¿qué es y cuáles son sus características? Rock Content - ES. Recuperado 20 de enero de 2022, de https://rockcontent.com/es/blog/interfaz-de-usuario/
+   
 
 
