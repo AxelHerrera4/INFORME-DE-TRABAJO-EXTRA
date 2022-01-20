@@ -45,6 +45,18 @@ La interfaz de control, sirve como espacio de contenido de información del circ
 
 Entramos en la version demo de ThingsBoard, la cual entramos en el apartado de paneles para poder crear un nuevo panel de control, la cual simulara la nterfaz de control, y agregamos los nuevos widgets, que son los controladores o indicadores que ayudan al usuario a visualizar el estado del circuito o programa.
 
+
+
+![](imagenes/paso_1.png)
+
+
+![](imagenes/paso_2.png)
+
+
+![](imagenes/paso_3.png)
+
+
+
 4.- Conclusiones
 
 
